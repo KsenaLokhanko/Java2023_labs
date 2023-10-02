@@ -4,7 +4,10 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 /**
+ * This is the main class of the program.
  * This class demonstrates printing an array of objects of the `Cosmetic` class and sorting it.
+ * @author Lokhanko Kseniia, IO-11
+ * @version 1.0 02.10.2023
  */
 public class Main {
 
