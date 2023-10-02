@@ -5,12 +5,31 @@ package lab4;
  * and whether it is hypoallergenic.
  */
 public class Cosmetic {
+/**
+     * The type or category of the cosmetic product.
+     */
     private String productType;
-    private String brand;
-    private String shade;
-    private double price;
-    private boolean isHypoallergenic;
 
+    /**
+     * The brand of the cosmetic product.
+     */
+    private String brand;
+
+    /**
+     * The shade or color of the cosmetic product.
+     */
+    private String shade;
+
+    /**
+     * The price of the cosmetic product.
+     */
+    private double price;
+
+    /**
+     * Indicates whether the cosmetic product is hypoallergenic or not.
+     */
+    private boolean isHypoallergenic;
+    
     /**
      * Constructs a new `Cosmetic` object with the specified properties.
      *
